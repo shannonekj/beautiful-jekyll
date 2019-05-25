@@ -87,7 +87,7 @@ footer-links-active:
 # Note: Reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "sejoslin@ucdavis.edu"
   github: shannonekj
   twitter: IntrprtngGnmcs
